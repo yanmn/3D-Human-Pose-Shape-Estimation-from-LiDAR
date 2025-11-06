@@ -92,7 +92,10 @@ Please contact Salma Galaaoui (salma.galaaoui@valeo.com) for your questions.
 - LiDAR-aid Inertial Poser (LIP), IEEE-TVCG 2023, [[paper]](https://arxiv.org/abs/2205.15410) 
 - PEAR-Proj, ACM Multimedia 2024, [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681055) 
 - SLOPER4D* , CVPR 2023, [[paper]](https://arxiv.org/abs/2303.09095) 
-- SMPLify-3D, Master Thesis 2024, [[paper]](https://repository.tudelft.nl/record/uuid:7dc63e73-b793-4430-b9e0-26df378a20d9) 
+- SMPLify-3D, Master Thesis 2024, [[paper]](https://repository.tudelft.nl/record/uuid:7dc63e73-b793-4430-b9e0-26df378a20d9)
+- RELI11D*, CVPR 2024, [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_RELI11D_A_Comprehensive_Multimodal_Human_Motion_Dataset_and_Method_CVPR_2024_paper.pdf), [[project]](http://www.lidarhumanmotion.net/reli11d/)
+- HiSC4D*, TPAMI 2024, [[paper]](https://ieeexplore.ieee.org/document/10670484), [[project]](http://www.lidarhumanmotion.net/hisc4d/)
+- ClimbingCap*, CVPR 2025, [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_ClimbingCap_Multi-Modal_Dataset_and_Method_for_Rock_Climbing_in_World_CVPR_2025_paper.pdf), [[project]](http://www.lidarhumanmotion.net/climbingcap/)
 
  \* The annotation pipeline employs mesh reconstruction for 3D data labeling.
 
